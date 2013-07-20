@@ -12,6 +12,16 @@ $(document).ready(function(){
 		
 	});	
 		
+	$('.priceBtn').click(function(){
+		var url = 'resources/Pricing.jsp';
+		$.get(
+				url,
+				function(responseText){
+					$('#mainContent').html(responseText);
+				}
+		);
+		
+	});	
 	
 });
 	

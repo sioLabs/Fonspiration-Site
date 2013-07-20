@@ -12,11 +12,11 @@
 <fieldset>
 <legend>Quote Submission</legend>
 <form method="post">
-<div class="row">
-	<div class="large-9 columns">
-		<textarea placeholder="Enter your quote here"></textarea>	
+	<div class="row">
+		<div class="large-9 columns">
+			<textarea placeholder="Enter your quote here"></textarea>	
+		</div>
 	</div>
-</div>
 	<div class="row">
 		
 			<div class="large-2 columns">

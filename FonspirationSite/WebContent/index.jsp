@@ -39,7 +39,7 @@
 		<section class="top-bar-section">
 			<ul class="right">
 				<li><a class="designBtn" href="#">Design</a></li>
-				<li><a href="#">Price</a></li>
+				<li><a class="priceBtn" href="#">Price</a></li>
 				<li><a href="#">Product</a></li>
 				<li><a href="#">Winner</a></li>
 				<li><a href="#">About Us</a></li>
@@ -54,7 +54,7 @@
     
     <!-- Main Content Section -->
      
-    <div class="large-9 push-3 columns" id ="mainContent">
+    <div class="large-9 push-3 columns" id ="mainContent" >
     <!-- This has been source ordered to come first in the markup (and on small devices) but to be to the right of the nav on larger screens  
       <h3>Page Title <small>Page subtitle</small></h3>
       
